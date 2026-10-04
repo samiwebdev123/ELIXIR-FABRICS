@@ -1,0 +1,6 @@
+{
+  "name": "ELIXIR | Fine Menswear",
+  "description": "ELIXIR Fine Menswear - Luxury Pakistani menswear, bespoke tailored kurtas, waistcoats, prince coats, and refined wardrobe essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
